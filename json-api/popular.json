@@ -1,0 +1,79 @@
+
+[
+    {
+        "image" :
+        {
+           "url" : "/img/dest1.avif",
+           "alt" : "Destination 1"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest2.avif",
+           "alt" : "Destination 2"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest4.jpg",
+           "alt" : "Destination 3"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest4.jpg",
+           "alt" : "Destination 4"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest2.avif",
+           "alt" : "Destination 2"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest2.avif",
+           "alt" : "Destination 3"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest2.avif",
+           "alt" : "Destination 4"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    },
+    {"image" :
+        {
+           "url" : "/img/dest2.avif",
+           "alt" : "Destination 5"
+        },
+        "text" : "Rome,Florance",
+        "text2" : "modifier classes for cards" 
+        
+    }
+    
+       
+
+]

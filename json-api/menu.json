@@ -1,0 +1,22 @@
+[
+    { 
+       "menu" : "Flights",
+       "link" : "/"
+    },
+    {
+         "menu" : "Hotels",
+         "link" : "/hotels"
+    },
+    {
+         "menu" : "Car Hire",
+         "link" : "/carhire"
+    },
+    {
+         "menu" : "Trip Finder",
+         "link" : "/tripfinder"
+    },
+    {
+         "menu" : "Inspirations",
+         "link" : "/inspirations"
+    }
+]

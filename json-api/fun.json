@@ -1,0 +1,38 @@
+[
+    {
+          "icon" : " fa-bicycle",
+          "p1" : "5670-M",
+          "p2" : "Cyckling Track"
+    },
+          
+{       "icon" : " fa-map-o",
+          "p1" : "480-M",
+          "p2" : "Distance Covered"
+
+    },
+ {
+    "icon" : " fa-solid fa-compass",
+    "p1" : "5670-M",
+    "p2" : "Altitude Hiked"
+
+    },
+ {
+    "icon" :"fa-map-o",
+    "p1" : "180 KM",
+    "p2" : "Sailing Distance"
+
+    },
+ 
+ {
+    "icon" : " fa-map-o",   
+    "p1" : "570-Days",
+    "p2" : "Spent Adventure"
+
+    },
+    {
+    "icon" : " fa-map-o",
+    "p1" : "567-M",
+    "p2" : "Jugle Distance"
+
+    }
+]
